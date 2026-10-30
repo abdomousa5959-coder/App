@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Z.ai AgentOS</string>
+    <string name="accessibility_service_label">وكيل Z.ai للتحكم التلقائي بالهاتف</string>
+    <string name="accessibility_service_description">يمنح جلسة Z.ai صلاحية قراءة الشاشة، النقر التلقائي، التمرير، والرجوع وتنفيذ المهام نيابة عنك كوكيل ذكاء اصطناعي متكامل.</string>
+    <string name="tab_session">جلسة Z.ai</string>
+    <string name="tab_permissions">صلاحيات التحكم</string>
+    <string name="tab_console">مركز القيادة</string>
+    <string name="tab_logs">سجل العمليات</string>
+    <string name="bridge_connected">الجسر البرمجي متصل</string>
+    <string name="bridge_standby">في انتظار الأوامر</string>
+    <string name="grant_permission">تفعيل الآن</string>
+    <string name="permission_granted">مفعّل بالكامل</string>
+</resources>

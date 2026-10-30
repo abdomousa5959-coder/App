@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Cyber Ring -->
+    <path
+        android:fillColor="#00E5FF"
+        android:fillAlpha="0.22"
+        android:pathData="M54,24 A30,30 0 1,1 53.9,24 Z" />
+    <!-- Geometric Stylized Z & Agent Core -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M34,34 H74 V43 L47,65 H74 V74 H34 V65 L61,43 H34 Z" />
+    <!-- Neural Pulse Nodes -->
+    <path
+        android:fillColor="#7C4DFF"
+        android:pathData="M30,30 H38 V38 H30 Z M70,70 H78 V78 H70 Z" />
+</vector>

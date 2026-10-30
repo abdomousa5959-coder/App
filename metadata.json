@@ -1,0 +1,6 @@
+{
+  "name": "Z.ai AgentOS",
+  "description": "منصة جلسة تسجيل الدخول المباشرة على Z.ai مع وكيل ذكاء اصطناعي بصلاحيات تحكم كاملة في الهاتف",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
